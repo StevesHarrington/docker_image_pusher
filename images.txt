@@ -5,5 +5,4 @@ xhofe/alist:latest
 kasmweb/qbittorrent:latest
 superng6/qbittorrentee:latest
 linuxserver/emby:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+emby
