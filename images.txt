@@ -1,4 +1,4 @@
-kasmweb/qbittorrent:latest
-superng6/qbittorrentee:latest
-linuxserver/emby:latest
-emby
+kasmweb/qbittorrent
+superng6/qbittorrentee
+linuxserver/emby
+
